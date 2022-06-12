@@ -6,6 +6,7 @@ KY 038 sound sensor,
 Breadboard,
 Jumper wires,
 12 V Βattery.
+
 Circuit Diagram:
 ![image](https://user-images.githubusercontent.com/70278957/173220991-0981055b-b22b-43fe-bad8-cca872654cc7.png)
 
